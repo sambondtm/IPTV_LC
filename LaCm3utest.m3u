@@ -9,7 +9,7 @@ udp://@239.6.7.2:1234
 udp://@239.6.7.1:1234
 #EXTINF:0 tvg-name="France 5" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/France5.png" group-title="TV",FRANCE 5
 udp://@239.6.1.4:1234
-#EXTINF:0 tvg-name="M 6" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/M6.png" group-title="TV",M 6
+#EXTINF:0 tvg-name="M6" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/M6.png" group-title="TV",M6
 udp://@239.6.6.5:1234
 #EXTINF:0 tvg-name="Canal +" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/Canal+.png" group-title="TV",Canal +
 udp://@239.222.0.1:1234
