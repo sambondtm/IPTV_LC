@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="TF1" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/TF1.png" group-title="TV",TF1
+#EXTINF:0 tvg-name="TF1" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/TF1.png"
 udp://@239.7.1.2:1234
 #EXTINF:0 tvg-name="France 2" tvg-logo="https://github.com/sambondtm/IPTV_LC/raw/main/France2.png" group-title="TV",FRANCE 2
 udp://@239.6.6.2:1234
